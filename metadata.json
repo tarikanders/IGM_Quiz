@@ -1,0 +1,5 @@
+{
+  "name": "Igmg Eğitim Quizz",
+  "description": "A multiplayer quiz platform powered by Gemini AI. Host creates quizzes instantly, players join via PIN code. Uses BroadcastChannel for local multi-tab multiplayer demonstration.",
+  "requestFramePermissions": []
+}
